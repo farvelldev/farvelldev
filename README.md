@@ -39,13 +39,3 @@ I specialize in building performant web applications, modern frontends, and robu
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farvelldev&theme=dracula&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/farvelldev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
