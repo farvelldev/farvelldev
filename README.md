@@ -25,6 +25,6 @@ I build modern web applications and tools. Always exploring new technologies and
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farvelldev&show_icons=true&theme=dracula&hide_border=true" alt="Farvell's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farvelldev&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farvelldev&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=farvelldev&theme=dracula&column=3&margin-w=15" alt="Trophies" width="48%" />
 </p>
